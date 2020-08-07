@@ -11,7 +11,15 @@ You can change the way bullet points are rendered by using the `meta` plugin.
     * Design
     * Code Review
     * Documentation
+
+:include-meta: {bulletListType: "BulletsListType"}
     
+* Testing
+* Design
+* Code Review
+* Documentation
+
+
 # Left Right Timeline
 
 Use `LeftRightTimeLine` to outline your flow. This also splits related things by moving odd points to the left and even 
